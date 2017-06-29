@@ -1,4 +1,2 @@
 # stuff-npm
-Stuff that's related to npm.
-
-This is where put code examples that I often use.
+Examples for code I often use.
