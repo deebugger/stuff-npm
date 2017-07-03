@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "ava": "^0.20.0",
     "jscs": "^3.0.7",
-    "jshint": "^2.9.5"
+    "jshint": "^2.9.5",
+    "proxyquire": "^1.8.0"
   }
 }
